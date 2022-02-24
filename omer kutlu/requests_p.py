@@ -24,7 +24,7 @@ def get_info():
 mix=[]
 lenght=[]
 names=[]
-for i in range(5):    
+for i in range(100):    
     mix=list(get_info())
     #print(mix)
     random.shuffle(mix)
